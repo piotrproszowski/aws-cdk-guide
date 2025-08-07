@@ -1,0 +1,80 @@
+include::attributes.txt[]
+
+:doctype: book
+:toc: left
+:icons: font
+:experimental:
+:idprefix:
+:idseparator: -
+:info_subtitle: Developer Guide
+:info_edition: 2
+:info_corpauthor: \{aws}
+:info_publisher: \{aws}
+:keywords: CDK, \{aws} CDK, \{aws} Cloud Development Kit
+:info_copyright: 2025 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.
+:info_legalnotice: Amazon's trademarks and trade dress may not be used in connection with any product or service that is not Amazon's, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Amazon. All other trademarks not owned by Amazon are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Amazon.
+
+[[top]]
+= \{aws} Cloud Development Kit (\{aws} CDK) v2
+
+== [abstract]
+
+Provides a conceptual overview and practical examples to help you understand the features provided by the \{aws} CDK and how to use them.
+--
+
+[.banner.info]
+This is the \{aws} CDK v2 Developer Guide. The older CDK v1 entered maintenance on June 1, 2022 and ended support on June 1, 2023.
+
+include::home.adoc[leveloffset=+1]
+
+include::core-concepts.adoc[leveloffset=+1]
+
+include::prerequisites.adoc[leveloffset=+1]
+
+include::getting-started.adoc[leveloffset=+1]
+
+include::work-with-cdk.adoc[leveloffset=+1]
+
+include::best-practices.adoc[leveloffset=+1]
+
+include::work-with-cdk-v2.adoc[leveloffset=+1]
+
+include::migrate.adoc[leveloffset=+1]
+
+include::configure-access.adoc[leveloffset=+1]
+
+include::configure-env.adoc[leveloffset=+1]
+
+include::bootstrapping-env.adoc[leveloffset=+1]
+
+include::chapter-develop.adoc[leveloffset=+1]
+
+include::configure-synth.adoc[leveloffset=+1]
+
+include::chapter-deploy.adoc[leveloffset=+1]
+
+include::blueprints.adoc[leveloffset=+1]
+
+include::plugins.adoc[leveloffset=+1]
+
+include::toolkit-library.adoc[leveloffset=+1]
+
+include::testing.adoc[leveloffset=+1]
+
+include::cli.adoc[leveloffset=+1]
+
+include::ref-cli-cmd.adoc[leveloffset=+1]
+
+include::reference.adoc[leveloffset=+1]
+
+include::how-tos.adoc[leveloffset=+1]
+
+include::tools.adoc[leveloffset=+1]
+
+include::security.adoc[leveloffset=+1]
+
+include::troubleshooting.adoc[leveloffset=+1]
+
+include::pgp-keys.adoc[leveloffset=+1]
+
+include::doc-history.adoc[leveloffset=+1]
