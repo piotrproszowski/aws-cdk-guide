@@ -18,7 +18,7 @@ build/
 # Generated documentation
 *.html
 *.pdf
-*.docx
+# *.docx  # Commented out to include converted Google Docs files
 *.xlsx
 *.rtf
 *.mobi
